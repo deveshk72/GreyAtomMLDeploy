@@ -57,16 +57,25 @@ ga1909
 			- readDocs
 			- loadConfig
 			- splitter
-			- firstSentExtractor
+			- groupSentence
 			- findNumWords
 			- findTop3Sent
 			- sentenceCombiner
 			
 			
 relative path
-		
 
+local --push---git repo ---pull -- aws instance-- deploy
 
+git init ----> only once
+git add .
+git commit -m "first commit"
+git remote add origin "https://github.com/saz2nitk/ga1909.git" --> once
+git push origin master
+
+git add .
+git commit -m "first commit"
+git push origin master
 
 
 
